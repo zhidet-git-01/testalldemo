@@ -1,0 +1,1 @@
+package demo;public class Test9 {	public static void main(String[] args) {		String sum = "100";		String add = "10";		System.out.println(Integer.valueOf(sum)+Integer.valueOf(add));	}}
